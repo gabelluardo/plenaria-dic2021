@@ -1,0 +1,14 @@
+meta:
+  url: https://gabelluardo.github.io/plenaria2021
+  title: Plenaria dicembre 2021
+  description:
+  siteName: plenaria-dic2021
+slide:
+  loop: false
+  targetBlank: true
+  ui:
+    sidebar: false
+    pagination: bullets
+    effect:
+  code:
+    theme: okaidia
