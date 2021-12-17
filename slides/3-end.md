@@ -1,3 +1,15 @@
+<!-- MEME SECTION -->
+
+# Sponsor?
+
+<!-- block-start: img -->
+
+![](../assets/rp.jpeg)
+
+<!-- block-end -->
+
+---
+
 # Fin
 
 <!-- block-start: space -->

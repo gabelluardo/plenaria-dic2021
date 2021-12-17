@@ -121,7 +121,7 @@ Più lavoro per gli elettroinformatici!
 
 ---
 
-# Manutenzione
+# Manutenzione Software
 
 Ago <i class="fas fa-check"></i>
 
@@ -131,14 +131,14 @@ BOB <i class="fas fa-ellipsis-h"></i>
 
 Pino <i class="fas fa-ellipsis-h"></i>
 
-ALICE <i class="fas fa-times"></i>
-
-martina <i class="fas fa-times"></i>
-
-ElisaBot <i class="fas fa-times"></i>
-
 <!-- block-start: img -->
 
 ![](../assets/fast-cat.gif)
 
 <!-- block-end -->
+
+ALICE <i class="fas fa-times"></i>
+
+martina <i class="fas fa-times"></i>
+
+ElisaBot <i class="fas fa-times"></i>
